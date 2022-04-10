@@ -385,7 +385,7 @@ MonoBehaviour:
   nombre2: juan
   nombre3: luca
   capital1: 10
-  capital2: 40
+  capital2: 400
   capital3: 50
 --- !u!4 &1826082251
 Transform:

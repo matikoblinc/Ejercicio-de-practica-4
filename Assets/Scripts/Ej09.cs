@@ -17,7 +17,7 @@ public class Ej09 : MonoBehaviour
     float porcentaje3;
 
     float montoTotal;
-    float multi = 100;
+
 
 
     void Start()
